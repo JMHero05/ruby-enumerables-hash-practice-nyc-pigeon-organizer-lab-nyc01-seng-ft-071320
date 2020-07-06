@@ -5,6 +5,7 @@ def nyc_pigeon_organizer(data)
     # binding.pry
     value.each do |color, names|
       binding.pry
+      names.each do |name|
       item
     end
     item
