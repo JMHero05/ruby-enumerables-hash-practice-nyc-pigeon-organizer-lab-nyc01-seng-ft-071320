@@ -7,6 +7,7 @@ def nyc_pigeon_organizer(data)
       # binding.pry
       names.each do |name|
         binding.pry
+      end
       item
     end
     item
